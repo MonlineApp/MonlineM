@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1094928518765",
+    "firebase_url": "https://monlinem-fe634.firebaseio.com",
+    "project_id": "monlinem-fe634",
+    "storage_bucket": "monlinem-fe634.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094928518765:android:6234090fc397e0c3",
+        "android_client_info": {
+          "package_name": "com.MonlineM.androidapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094928518765-12u6mopi6i1dkq93f0988fbsiise0ffj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.MonlineM.androidapp",
+            "certificate_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+          }
+        },
+        {
+          "client_id": "1094928518765-47kimnsr16tdl5mbuoid59smhpr5l9li.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7gJC600CzhvVIVtbiFAg_XyH35RfvHdk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094928518765-47kimnsr16tdl5mbuoid59smhpr5l9li.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

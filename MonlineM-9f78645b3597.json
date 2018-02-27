@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "monlinem-fe634",
+  "private_key_id": "9f78645b35972757f3ad31f728a73617d19558b1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCbcBCCU+c/MxcO\n1ar67/Jef1kexeHRPzSxGMRlrrxqqo5pNrd3oF2MiezPqNFty/UR6HWdHZ0Ypdhg\nTz/6r25jGdRtLzSUJon8s2ItqWrfDSAC+v37rDyqAxV9MPncJ5hrDmNF++7FNfc6\nNzWfrYmabtoGltUEnXulcbrSl25+lHuAcS05dQ9c3Rw0iOz6ZOcACnips2WNR5Uj\ngzDf9PS06e1SNc0a+Ly4Lw0wdv9yld/lM4ks16AWa/9pyerBm6xBggEocf+qIML/\n3o8M34G746KJeEIpnyBoJk4Vz9/nuLoVLTm65oIezJaSTRtTLWXSjlSp54d1msSV\nvClKh+nDAgMBAAECggEAAPPhNgXw9I3fRfkAm5nINioOUBujCaxF1LwJIB0VDIul\nDyIFt9b6G81l79PiDLaOTEt3b7y/D2fyI+JNyxSI1v9RMlDIFWGzFiMR+/j+LbB1\nPMTFtRArgwM9KM+ZsxlkXBZHfNCmzaX0sPJRAtHby7WC4pLJasYoUYLumTHSZzYx\nTq/s/ioQT78TYzbQ0P55HIPEnv7FwDA2AkXBqfg6ePGtA4QNMcPtF8qgrs8epn1i\nZZs7vBftC3SmQRlGFLeMotdvWm2iULwlOw17Tiy7jAHI+4oNljhi0SaOcp2pIHZQ\nKiF1xZCdfrRw/m4XQXWiLOb00BaJ4PTIzupF92xJ6QKBgQDWOHmWNElXA7w7vcpW\nKhku0T3I7CBTnaiwLgEHUiY3Lw+pRP8d7Ju7qmd8tD5T8DJXTGE6rLs1cx2NOPvP\nuGiibv5GlHE4CsptZRnA8uywmEprjCAIeJwZtpCFKpC++qNEuHu5kpZ7Wauxw3f7\nIDFsjPLDiBLFt7Fw4hmpRvm9JQKBgQC5wLOZFlfRib6j8Z9W/PAWThs0q+cmJMHS\nl8GDK0zdfhwm0vYSgtdAixbuG+VPV+CGenby8H/3ddMy1EQcvc2wIezEObh/lGvQ\nRfkNNHr2Dv3sAEvSsT3ZvNG9H91aojvv38z39lpl9IuFto832uOP+yq55NjQgqQB\nrP8z8EW6xwKBgBzrDMbREiFz+KIb8ceF8VZXmr6X2ZlQDCiUXUEuvsfuS2/vR30z\npqZDz6qO7mcIYtNUFUAFd1Q00QVybtPQshdTYnIGse39zuvLnRll8bu5Izq3dM+P\n8IqsEYBYiaeuUAID4XfgqP3H0hyyJW06IFHmCROKN/aG4KY7b3lhgm8dAoGAF5CE\nuDUHawOoda/fYO+xnYLHHMV6C3K6S/cIi5VgqPCorZwxr2N93yhF/mr3ijtBto2u\nrV8pPMFry5T2FxdVErUbDkGsUDMKAl/+GljACJsaR2g6Nj5Z9Fdp3C5ArJDMPcAM\nhqBwE2MUmB/yx0kzeT6Jyw9nGfyYxcWmknY2wl0CgYEAnitS8DYHF7JMaPVwePG8\nSRl5cg7mMTDBhEg661PqGXu80zTih6IpzK5d6HWaErE787iX++6Xy4Np607Zfxxt\nZZqiwIsk3H6CanvY2e8Epy3TGwPk10revqZpXzMERmKHSg11DEzDrHi1osVpxcBk\nebJN+MwOsWVBZ6MyNVA3MEo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "libretaxi-production-credentia@monlinem-fe634.iam.gserviceaccount.com",
+  "client_id": "106755030771932266959",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/libretaxi-production-credentia%40monlinem-fe634.iam.gserviceaccount.com"
+}

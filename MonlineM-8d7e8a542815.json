@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "monlinem-fe634",
+  "private_key_id": "8d7e8a5428158392a5d785c66d628e63e275c3b1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC4rvdtC6Sig9wb\nMb9EeBMhIza5oJz853a+xnfzAd98MhD8lcyk098Fxe1Wcoo05hAII0sDRvEkHnuh\nA3joq+4O/KVNym93USg9KHsRD/Ppm7jEvyR4qGSmdb91eSF5idhoFxSaBC+f4GCi\nISmiZpL2eTahrgzsOGqAdxL5SfYFik5fTr2OcqwZopoQx1DJ1opNiStjqen/JwXx\nWS2vSO6mOb+hZVVBDM4grhNHDx6o36qUy0w1rsGnCk6QNu68UmlMXQ5uSsCsSfxq\ndba1qd6OkFJjJ1R8jCFIsSNAd3Wx0JwqHmYBzjl3bDdIPgGLBzjIeC3G4i939BXg\nBwiHiJCFAgMBAAECggEAArszjx7e6QU9Ku8OhpDQozWJuhn1dsw7UzAeDD5+w4Dk\nHVIKSX3zYtz81ttVjuIVRJR5tMXzdpORKlNqb9y5mSYKzVT/Tj82VL+/QtmnTAzL\nZXTSAnGI06kw5koaqXKzHjuiWYwF70iKl/qyJCYO5aSvgRmEI6SGakqFUuW3zXhy\nl92BzILE/fTgZf2HTq6H3Whql7J6+BRMsFGAQqNQWnJJjRaWbOOr9W9UWarIAeOK\n0X7RMQdBADL0Q1rExx+xYIvIkJBJnJHAUVCg78n9y2ke+z0I7a0dMTczl6OAXI43\natBZFzSYvAUM3PzrmfTNNwIssokLulGvxNYDjQs4yQKBgQDpIrW/KbdbGjlgMVY0\nXvqmAnDzQg5z1YF+jeT9SjdY9RkOGHuXPCGsVSsze/uEd+XpnZH1CUucr45qRPgG\neOTZuP4ubtn3iPOWCxjaHu3P1uIL7qAJUU0Z0IN62t9a/J1yRo/Jaf6yds0o5csA\ny5fNmvp+PRPUxSm15jE1a1PkyQKBgQDKy8dKyMHyAUXM59Rl/QO125VhxtdqPBCW\n60bsMvqLyMY4dHRnKDYni//q6yEbK32Wn9lT+WTFGYQSfPSgCM62Wl5N5QXB860V\nD1mFHgGV4IrGE4kM0EJwvWC79DRWcG0OGmZaQXF3+BSqOZDtZuk2bZgJHHrOZaAT\n2PJbzx4X3QKBgAyLB4g/cFQAdzHLtb2flpCz9OvBlBF7XTo33CgchBnPJgfyHUQn\nwhAJjQd6FjAsWzxUc/PhCiZl852YFFgUzQtBvrs0z5lXzvM1qaKio1zZTNQjhIy7\nyRAofcpwWDAHA1mQnk/R2hgz+BnJM0DZs1MmkW+VTanW6cWVmvQq0BqxAoGAVA46\nwIiNut1ELTY6FzvT+eDV/f0I9IOI7MUAVI6cwqupXWUHimpkZ+fjX1+uDTDtkS0Y\nS3InjnqQ/4jDbEG6TGMQi4DN7iIuL3h5Rm+1gIXdf1RBjgoUP95+5ejGeL2ItjvD\nCM3vViaBijzqETyClYi/Z6diT4JX42IcsmkatBECgYEAh979ECh7QmRAysPdep68\n5Sv4QReWLgzfFoF3hyLG9BcuAahkhlJXame1YcW07v1DYogp0CV07UwpVIeVZ+Oy\nXEE/LGHpxgqrJgs5wCUKnlKiA8WTx23c1lHvZlChuyZjtEqeDTC2d27XEtwsV/XC\nGzqPaXEMeCi6JD5zonZjfTw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "libretaxi-development-credenti@monlinem-fe634.iam.gserviceaccount.com",
+  "client_id": "115705211280945736132",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/libretaxi-development-credenti%40monlinem-fe634.iam.gserviceaccount.com"
+}
